@@ -99,4 +99,3 @@ We believe the future belongs to people who **use AI wisely**, not blindly.
 ### ⭐ Star • Fork • Build • Navigate AI with AI Kaptan
 
 </div>
-```
